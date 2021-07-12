@@ -27,7 +27,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Mybrary
 ```
 
 Install dependencies
@@ -35,7 +35,7 @@ Install dependencies
 ```bash
   npm install
 ```
-Make a .env file in my-project directory and add this in it
+Make a .env file in Mybrary directory and add this in it
 
 ```bash
   DATABASE_URL=<your url here>
